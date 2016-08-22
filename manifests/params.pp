@@ -15,7 +15,7 @@ class incron::params {
     }
 
     default: {
-      $service_name = 'incrond'
+      $service_name = 'incron'
     }
   }
 
